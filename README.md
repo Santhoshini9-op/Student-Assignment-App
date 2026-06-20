@@ -102,13 +102,23 @@ Teacher Login
 
 ## Project Preview
 
-[Add your project screenshots here.](https://github.com/Santhoshini9-op/Student-Assignment-App/blob/main/Screenshot%202026-06-20%20175811.png)
+[[Add your project screenshots here.](https://github.com/Santhoshini9-op/Student-Assignment-App/blob/main/Screenshot%202026-06-20%20175811.png)](https://github.com/Santhoshini9-op/Student-Assignment-App/blob/main/Screenshot%202026-06-20%20175826.png
+
+https://github.com/Santhoshini9-op/Student-Assignment-App/blob/main/Screenshot%202026-06-20%20175836.png
+
+https://github.com/Santhoshini9-op/Student-Assignment-App/blob/main/Screenshot%202026-06-20%20175841.png
+
+https://github.com/Santhoshini9-op/Student-Assignment-App/blob/main/Screenshot%202026-06-20%20175851.png
+
+https://github.com/Santhoshini9-op/Student-Assignment-App/blob/main/Screenshot%202026-06-20%20175858.png
+
+)
 
 ---
 
 ## Figma Design and Interactive Prototype
 
-[View the Figma Design and Interactive Prototype](PASTE_YOUR_FIGMA_LINK_HERE)
+[View the Figma Design and Interactive Prototype]([PASTE_YOUR_FIGMA_LINK_HERE)](https://www.figma.com/proto/jfpVBQQrpMoo208zNy9qKd/Untitled?node-id=36-76&p=f&t=1NgHr4snzJENqeHj-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 ---
 

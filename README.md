@@ -102,7 +102,7 @@ Teacher Login
 
 ## Project Preview
 
-Add your project screenshots here.
+[Add your project screenshots here.](https://github.com/Santhoshini9-op/Student-Assignment-App/blob/main/Screenshot%202026-06-20%20175811.png)
 
 ---
 
